@@ -1,8 +1,6 @@
 module.exports = {
-  widgetName: "jsDev",
+  widgetName: "GRRemakeList",
   server: "$",
-  file: "jsDev",
+  file: "GasketsRock_Static",
   uploadScript: "UploadToHTML",
-  reloadScript: "Load Widget",
-  startDevScript: "Set to Dev Mode",
 };
